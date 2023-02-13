@@ -9,7 +9,7 @@
   border: none;
   outline: none;
   user-select: none;
-  transition: all .5s ease-in;
+  transition: .5s ease-in;
   font-family: one;
 }
 
